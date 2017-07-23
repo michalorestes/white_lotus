@@ -1,0 +1,404 @@
+a {
+    color: black;
+    text-decoration: none;
+    
+}
+
+a:hover {
+    color:#0030ff;
+}
+
+h1{
+    font-size: 22px; 
+    font-weight:bold;
+    margin-top: 15px;
+}
+
+h2{
+    font-size: 20px;
+    font-weight:bold;
+
+}
+
+body {
+    
+    
+    font-family: sans-serif;
+}
+
+div#regContainer {
+    background-color: #e3e3e3; 
+    height: 40px; 
+ }
+
+
+div#regContainer ul {
+    float: right; 
+    margin-right: 20px; 
+    margin-top: 10px; 
+}
+
+div#regContainer ul li {
+    display: inline; 
+    margin-left: 15px;
+    vertical-align: central; 
+}
+
+div#topContainer {
+    height: 120px;
+    background-color: #ffffff;
+    border-style: solid;
+    border-bottom-color: #ffcf4c;
+    border-bottom-width: 5px;
+}
+
+
+nav ul {
+    float: right; 
+    margin-top: 40px;
+    margin-right: 20px; 
+    
+
+}
+
+nav ul li {
+    display:inline;
+    font-size: 26PX;
+    margin-left: 20px; 
+     
+    
+    
+}
+
+
+
+div#topContainer nav ul li a {
+    text-decoration: none;   
+}
+
+div#mainBodyContainer {
+     background-image:url(/images/mainIMG.jpg);
+     background-position:center;
+     height: 250px;
+     text-align:center;
+     padding-top: 300px;
+     font-size: 40px;
+     color: #ffffff;
+   
+}
+
+p.paragraph {
+    
+}
+
+footer {
+    background-color: #999999; 
+    height: 30px; 
+    margin-top: 25px; 
+    padding-top: 20px;  
+    
+}
+
+footer p {
+    color: #ffffff;
+    margin-left: 15px;
+    
+}
+
+.pageTopControls {
+    margin-top: 10px;
+}
+
+
+/********       REGISTER PAGE          **************/
+
+.wrapper {
+    overflow: hidden;
+    width: 1200px;
+    margin: 0 auto; 
+    margin-bottom: 25px;
+
+}
+#regMainCont {
+    width: 600px;
+    float: left;
+    margin-top: 25px;
+    
+
+}
+
+
+.lables {
+    width: 250px;
+}
+
+.controls {
+    width: 330px;
+}
+
+formControls {
+    line-height: 100px;
+}
+
+table tr td {
+    padding-top: 10px;
+}
+
+table {
+    margin-left: 25px;
+    margin-top: 15px;
+
+}
+
+
+#regSideCont {
+    
+    background-color: #ffffff;
+    height:485px; 
+    width: 550px; 
+    text-align:center;
+    padding: 25px;
+    overflow: hidden;
+    
+}
+
+
+
+td.formControls {
+    text-align: right;
+}
+
+
+
+/********       ADMIN PANEL PAGE MAIN          **************/
+
+
+
+div#AdminPanel_OptionsList {
+    
+    height: 500px;
+     
+    
+}
+
+div#AdminPanel_OptionsList table {
+    margin-top: 100px;
+    
+}
+
+div#AdminPanel_OptionsList table tr td {
+    width: 200px; 
+    text-align: center;
+    
+    
+}
+
+
+
+
+/*Add Session Page*/
+
+
+#sessionSideCont {
+    float: right;
+    margin-top: 25px;
+    width:600px;
+}
+
+#sessionSideCont table.sideTable {
+    float:left;
+}
+
+#sessionSideCont table.sideTable td {
+    text-align: left;
+}
+
+.lablesSession{
+    width:150px;
+}
+
+.controlsSession{
+    width: 350px;
+}
+
+
+.toppedItem {
+    vertical-align:top;
+}
+
+.Calendar1.td {
+    vertical-align: middle;
+            text-align: center;
+}
+
+
+.aliginRight {
+    float:right;
+    margin-right: 108px;
+}
+
+
+
+
+/*       Sessions        */
+
+.sessions{
+    width: 100%;
+    margin-left: 0px;
+    
+    
+}
+
+.sessions tr {
+    vertical-align:top;
+    border-bottom: solid; 
+    border-bottom-width: 2px;
+    border-bottom-color: #ffffff;
+    
+}
+
+.sessions tr td{
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom:30px;
+
+}
+
+
+.sessions tr td img{
+    height: 120px; 
+    width: 230px;
+    -webkit-box-shadow: 14px 14px 19px -10px rgba(0,0,0,0.28);
+    -moz-box-shadow: 14px 14px 19px -10px rgba(0,0,0,0.28);
+    box-shadow: 14px 14px 19px -10px rgba(0,0,0,0.28);
+    border-radius: 25px 25px 25px 25px;
+    -moz-border-radius: 25px 25px 25px 25px;
+    -webkit-border-radius: 25px 25px 25px 25px;
+    border: 0px solid #000000;
+}
+
+.sessions tr td ul li {
+    color:#a0a0a0;
+    margin-bottom: 5px;
+    font-size:14px;
+}
+
+
+.bookLink{
+    border-bottom: 1px solid #ffffff;
+    border-left: 1px solid #ffffff;
+    border-right: 1px solid #ffffff;
+    border-top: 1px solid #ffffff;
+    background-color:#ffcf4c;
+    border-radius: 15px;
+    color: #ffffff;
+    display: table-cell;
+    height: 2.5em;
+    padding: 0 1em;
+    width: 5em;       
+    text-decoration: none;  
+    text-align:center;
+    vertical-align:middle;
+}
+
+.seImg{
+    width:25%;
+}
+
+.seCont{
+    width:45%;
+}
+
+.seInfo{
+    width:20%;
+}
+
+.seBtn{
+    width:10%;
+}
+
+
+.leftAlignContainer {
+    float:left;
+    width:950px;
+}
+
+.rightAlignContainer {
+    float:right;
+    width: 220px;
+    
+}
+
+.left {
+
+    float:left; 
+    width: 500px; 
+
+}
+
+.right {
+    float:right; 
+    width: 620px;
+}
+
+/*MESSAGE WINDOW */
+#message{
+    width:780px;
+   color: white;
+
+    background-color:#2850ff;
+    margin-top: 25px;
+    padding-left: 20px;
+    padding-top:10px;
+    padding-bottom: 10px;
+
+    border-radius: 23px 23px 23px 23px;
+    -moz-border-radius: 23px 23px 23px 23px;
+    -webkit-border-radius: 23px 23px 23px 23px;
+    border: 0px solid #000000;
+}
+
+
+/*Reservations page*/
+
+#reservationTbl{
+    width:100%;
+}
+
+/*reservation view container*/
+
+.reservationList{
+    background-color:white;
+    padding-top: 15px;
+    width:200px; 
+    height:550px;
+    margin-top:10px;
+    background-color:#4582ff;
+    overflow-x: hidden; 
+    overflow-y: auto;
+    color:white;
+   
+}
+
+.reservationList div {
+    width:170px;
+
+    border:solid; 
+    float: right;
+    border-color:white;
+    border-right: 0px; 
+    border-width: 1px;
+    padding-top: 8px; 
+    padding-left:6px;
+    padding-bottom:8px;
+    margin-bottom:15px;
+
+}
+
+.reservationList div ul li {
+    font-size: 14px; 
+}
+
+.reservationList div ul li span {
+    font-weight: bold; 
+}

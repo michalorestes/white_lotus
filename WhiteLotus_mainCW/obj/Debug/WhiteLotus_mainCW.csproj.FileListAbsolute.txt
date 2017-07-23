@@ -1,0 +1,22 @@
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\csc.exe
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\vbc.exe
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\WhiteLotus_mainCW.dll.config
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\WhiteLotus_mainCW.dll
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\WhiteLotus_mainCW.pdb
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\obj\Debug\WhiteLotus_mainCW.csprojResolveAssemblyReference.cache
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\obj\Debug\WhiteLotus_mainCW.dll
+C:\Users\Jeremi\Google Drive\Uni\Application & Web Development\Coursework\WhiteLotus_mainCW\WhiteLotus_mainCW\obj\Debug\WhiteLotus_mainCW.pdb
+C:\Users\Michal\Google Drive\University_\Year 2\Application and Web Development\CW_COMP1551_227513_dm313_000779011_20151215_183129_1516\WhiteLotus_mainCW\WhiteLotus_mainCW\obj\Debug\WhiteLotus_mainCW.dll
+C:\Users\Michal\Google Drive\University_\Year 2\Application and Web Development\CW_COMP1551_227513_dm313_000779011_20151215_183129_1516\WhiteLotus_mainCW\WhiteLotus_mainCW\obj\Debug\WhiteLotus_mainCW.pdb

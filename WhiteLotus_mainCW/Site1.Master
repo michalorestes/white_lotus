@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WhiteLotus_mainCW.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+        <link rel="stylesheet" type="text/css" href="reset.css" />
+        <link rel="stylesheet" type="text/css" href="master.css" />
+        <link rel="stylesheet" type="text/css" href="forumStyle.css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <div id="regContainer">
+            <div class="wrapper">
+                
+                <!--LOGIN PANEL -->
+                <ul id="loginPanel" runat="server">
+                    <li>
+                        <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="txt_email" ErrorMessage="**" ForeColor="Red" ValidationGroup="login"></asp:RequiredFieldValidator>
+                        Email :
+                        <asp:TextBox ID="txt_email" runat="server"></asp:TextBox>
+                    </li>
+                    <li>
+                        Password:
+                        <asp:TextBox ID="txt_password" TextMode="Password" runat="server"></asp:TextBox>
+                    </li>
+                    <li>
+                        <asp:Button ID="btn_login" runat="server" Text="Login" OnClick="btn_login_Click" ValidationGroup="login" />
+                    </li>
+                    <li><a href="Register.aspx">Register</a></li>
+                </ul>
+            
+
+                <!-- USER PANEL -->
+                <ul id="loggedIn" runat="server">
+                    <li>
+                       <a href="#"> Welcome <asp:Label ID="Label1" runat="server" Text="Welcome "></asp:Label></a> | <a href= "UserPanel_Reservations.aspx">View your classes |</a>
+                        &nbsp;<a href="AdminPanel.aspx" id="loggedIn_adminPanel" runat="server">Administrator Panel</a></li>
+                    <li><asp:Button ID="btn_logout" runat="server" OnClick="btn_logout_Click" Text="Logout" CausesValidation="False" /> </li>
+                </ul>
+            </div><!-- end of wrapper -->
+        </div><!-- End of regContainer -->
+        
+        <div id="topContainer">
+            
+            <div class="wrapper">
+                <nav>
+                    <ul> 
+                        <li><a href="Default.aspx">Home</a></li>
+                        <li><a href="ForumCategories.aspx">Forum</a></li>
+                        <li><a href="Classes.aspx">Classes</a></li>
+                        <li><a href="Workshops.aspx">Workshops</a></li>
+                        <li><a href="ContactUs.aspx">Contact Us</a></li>
+                        <li><a href="AboutUs.aspx">About</a></li>
+                    </ul>
+            
+                </nav>
+                <img src="images/logo.jpg" />
+            </div><!-- end of wrapper -->
+        
+        </div><!-- end of top container --> 
+
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+          <footer>
+              <div class="wrapper">
+                  <p>Copyright &copy; 2015 Jeremi Michal Dolinski</p>
+              </div><!-- end of wrapper -->
+              
+          </footer>
+    </div>
+    </form>
+</body>
+</html>
